@@ -1,0 +1,6 @@
+psycopg2-binary
+playwright
+# beautifulsoup4 # Not strictly needed if playwright gets full HTML
+google-cloud-storage
+python-dotenv
+# nest_asyncio # May be needed if running in certain environments like Jupyter
